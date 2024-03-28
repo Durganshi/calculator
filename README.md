@@ -1,1 +1,3 @@
-# calculator
+The Calculator Project utilizes HTML, CSS, and JavaScript to create a functional and user-friendly calculator application.It provides users with basic arithmetic operations such as addition, subtraction, multiplication, and division, along with additional features like decimal point support and clear functionality. The project features a clean and intuitive user interface designed with CSS for styling and layout. JavaScript handles the logic behind the calculator's operations, ensuring accurate calculations and dynamic display of results as users input numbers and perform operations.
+              
+        
